@@ -1,0 +1,111 @@
+body{
+    background-image: url('images/origamibg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family:monospace;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: ivory;
+    font-weight: lighter;
+    padding: 50px;
+    background-image: url("images/bgbgbg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.camel{
+    position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.camelimage{
+    background-color: plum;
+    border-radius: pc;
+}
+
+.chameleonimage{
+    background-color: rgb(147, 158, 211);
+    border-radius: 3pc;
+}
+
+.chameleon{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.cicada{
+    position: absolute;
+    top: 160%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.cicadaimage{
+    background-color: rgb(212, 155, 138);
+    border-radius: 3pc;
+}
+
+.panda{
+    position: absolute;
+    top: 220%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.pandaimage{
+    background-color: rgb(171, 212, 138);
+    border-radius: 3pc;
+}
+
+.pigeon{
+    position: absolute;
+    top: 280%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.pigeonimage{
+    background-color:rgb(193, 154, 230);
+    border-radius: 3pc;
+}
+
+.teddy{
+    position: absolute;
+    top: 335%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.teddyimage{
+    background-color:rgb(113, 198, 201);
+    border-radius: 3pc;
+
+}
+
+.alignment{
+  display: flex;
+  
+  align-items: stretch;
+}
